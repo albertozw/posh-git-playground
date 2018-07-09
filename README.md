@@ -1,2 +1,2 @@
 # posh-git-playground
-Experiment wit posh-git 
+Experiment with posh-git 
